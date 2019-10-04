@@ -1,0 +1,10 @@
+Package: sparsebeta
+Type: Package
+Title: What the Package Does (Title Case)
+Version: 0.1.0
+Author: Jinsong Hao <jinsonghao1997@outlook.com>
+Maintainer: The package maintainer <jinsonghao1997@outlook.com>
+Description: Provide funtionalities for the sparse beta model.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
